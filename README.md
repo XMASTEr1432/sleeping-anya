@@ -20,6 +20,7 @@ how to download:<br/>
 * Warning: there are some issues with the theme. for example 
 * While creating a server you can't read anything:
 <br/>
+
 ![](https://media.discordapp.net/attachments/994218341193482264/994229158899109969/unknown.png)
 
 * Chatbox is almost impossible to read:
