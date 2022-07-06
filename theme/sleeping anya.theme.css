@@ -80,24 +80,24 @@
 
 .theme-dark {
   --header-primary: #fff;
-  --header-secondary: #fff;
+  --header-secondary: #bbb;
   --text-normal: #fff;
-  --text-default: #fff;
-  --text-muted: rgb(255, 247, 247);
-  --text-link: #FF6FD3FF;
+  --text-default: #ddd;
+  --text-muted: #aaa;
+  --text-link: #00b0f4;
   --channels-default: #ddd;
-  --interactive-normal: rgb(255, 255, 255);
+  --interactive-normal: #bbb;
   --interactive-hover: #eee;
   --interactive-active: #fff;
-  --interactive-muted: #fff;
+  --interactive-muted: #777;
   --background-primary: transparent;
   --background-secondary: rgba(0, 0, 0, 0.3);
   --background-secondary-alt: transparent;
   --background-tertiary: transparent;
-  --background-accent: #fff;
+  --background-accent: #ff6be6;
   --background-floating: transparent;
-  --background-mobile-primary: #fff;
-  --background-mobile-secondary: #fff;
+  --background-mobile-primary: #36393f;
+  --background-mobile-secondary: #2f3136;
   --background-modifier-hover: rgba(255, 255, 255, 0.05);
   --background-modifier-active: rgba(255, 255, 255, 0.07);
   --background-modifier-selected: rgba(255, 255, 255, 0.1);
@@ -109,43 +109,43 @@
   --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
   --elevation-medium: 0 4px 4px rgba(0, 0, 0, 0.16);
   --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
-  --logo-primary: #fff;
+  --logo-primary: rgb(255, 126, 126);
   --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
   --channeltextarea-background: rgba(211,126,150, 0.308);
-  --activity-card-background: #fff;
-  --textbox-markdown-syntax: #fff;
+  --activity-card-background: #202225;
+  --textbox-markdown-syntax: #8e9297;
   --deprecated-card-bg: rgba(0, 0, 0, 0.3);
   --deprecated-card-editable-bg: rgba(0, 0, 0, 0.3);
-  --deprecated-store-bg: #fff;
+  --deprecated-store-bg: #36393f;
   --deprecated-quickswitcher-input-background: var(--channeltextarea-background);
-  --deprecated-quickswitcher-input-placeholder: rgb(255, 255, 255);
+  --deprecated-quickswitcher-input-placeholder: rgba(255, 255, 255, 0.5);
   --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
   --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
-  --deprecated-text-input-border-hover: #fff;
-  --deprecated-text-input-border-disabled: #fff;
-  --deprecated-text-input-prefix: #ffffff;
+  --deprecated-text-input-border-hover: #040405;
+  --deprecated-text-input-border-disabled: #202225;
+  --deprecated-text-input-prefix: #dcddde;
   --text-link: var(--link-colour);
 }
 .theme-light {
   --header-primary: #fff;
-  --header-secondary: #fff;
+  --header-secondary: #bbb;
   --text-normal: #fff;
-  --text-default: #fff;
-  --text-muted: rgb(255, 247, 247);
-  --text-link: #FF6FD3FF;
+  --text-default: #ddd;
+  --text-muted: #aaa;
+  --text-link: #00b0f4;
   --channels-default: #ddd;
-  --interactive-normal: rgb(255, 255, 255);
+  --interactive-normal: #bbb;
   --interactive-hover: #eee;
   --interactive-active: #fff;
-  --interactive-muted: #fff;
+  --interactive-muted: #777;
   --background-primary: transparent;
   --background-secondary: rgba(0, 0, 0, 0.3);
   --background-secondary-alt: transparent;
   --background-tertiary: transparent;
-  --background-accent: #fff;
+  --background-accent: #ff6be6;
   --background-floating: transparent;
-  --background-mobile-primary: #fff;
-  --background-mobile-secondary: #fff;
+  --background-mobile-primary: #36393f;
+  --background-mobile-secondary: #2f3136;
   --background-modifier-hover: rgba(255, 255, 255, 0.05);
   --background-modifier-active: rgba(255, 255, 255, 0.07);
   --background-modifier-selected: rgba(255, 255, 255, 0.1);
@@ -157,21 +157,21 @@
   --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
   --elevation-medium: 0 4px 4px rgba(0, 0, 0, 0.16);
   --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
-  --logo-primary: #fff;
+  --logo-primary: rgb(255, 126, 126);
   --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
   --channeltextarea-background: rgba(211,126,150, 0.308);
-  --activity-card-background: #fff;
-  --textbox-markdown-syntax: #fff;
+  --activity-card-background: #202225;
+  --textbox-markdown-syntax: #8e9297;
   --deprecated-card-bg: rgba(0, 0, 0, 0.3);
   --deprecated-card-editable-bg: rgba(0, 0, 0, 0.3);
-  --deprecated-store-bg: #fff;
+  --deprecated-store-bg: #36393f;
   --deprecated-quickswitcher-input-background: var(--channeltextarea-background);
-  --deprecated-quickswitcher-input-placeholder: rgb(255, 255, 255);
+  --deprecated-quickswitcher-input-placeholder: rgba(255, 255, 255, 0.5);
   --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
   --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
-  --deprecated-text-input-border-hover: #fff;
-  --deprecated-text-input-border-disabled: #fff;
-  --deprecated-text-input-prefix: #ffffff;
+  --deprecated-text-input-border-hover: #040405;
+  --deprecated-text-input-border-disabled: #202225;
+  --deprecated-text-input-prefix: #dcddde;
   --text-link: var(--link-colour);
 }
 
@@ -1271,10 +1271,10 @@ textarea {
   background: transparent;
 }
 #app-mount .root-1gCeng .colorHeaderPrimary-jN_yGr {
-  color: #fff;
+  color: rgb(255, 210, 210);
 }
 #app-mount .root-1gCeng .colorHeaderSecondary-g5teka {
-  color: #ddd;
+  color: rgb(255, 210, 210);
 }
 #app-mount .root-1gCeng .container-UC8Ug1,
 #app-mount .root-1gCeng .lookFilled-1Gx00P.colorGrey-2DXtkV {
@@ -1285,7 +1285,7 @@ textarea {
   background: rgba(255, 255, 255, 0.15);
 }
 #app-mount .root-1gCeng .colorStandard-21JIj7 {
-  color: #fff;
+  color: rgb(255, 210, 210);
 }
 #app-mount .root-1gCeng .footer-2gL1pp {
   background: rgba(0, 0, 0, 0.2);
@@ -1294,17 +1294,17 @@ textarea {
   color: #ddd;
 }
 #app-mount .root-1gCeng .backButton-iA7KIs:hover {
-  color: #fff;
+  color: rgb(255, 210, 210);
 }
 #app-mount .root-1gCeng .input--jS-j2 {
   background: transparent;
 }
 #app-mount .root-1gCeng .input-2g-os5 {
   background: rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: rgb(255, 210, 210);
 }
 #app-mount .root-1gCeng .sampleLink-2NLvZg {
-  color: #ddd;
+  color: rgb(255, 210, 210);
 }
 
 #app-mount .quickswitcher-pKcM9U {
