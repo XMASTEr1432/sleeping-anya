@@ -13,6 +13,6 @@ settings:<br/>
 ![](https://media.discordapp.net/attachments/994218341193482264/994220752406593617/unknown.png)<br/>
 
 how to download:<br/>
-1. download the "[sleeping anya.theme.css](https://github.com/XMASTEr1432/sleeping-anya/tree/main/downloads/theme)" or click the download button above
+1. download the "[sleeping anya.theme.css](https://github.com/XMASTEr1432/sleeping-anya/tree/main/downloads/theme)"
 2. add the file to the betterdiscord themes folder
 3. done :thumbsup:
